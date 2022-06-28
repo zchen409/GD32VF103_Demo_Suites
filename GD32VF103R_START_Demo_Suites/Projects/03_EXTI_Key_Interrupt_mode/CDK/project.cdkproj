@@ -456,7 +456,7 @@
           <OpenOCDTclPort>6666</OpenOCDTclPort>
           <OpenOCDConfigOptions>-f openocd.cfg</OpenOCDConfigOptions>
           <OpenOCDTimeout>5000</OpenOCDTimeout>
-          <PluginID>openocd-gd32vf103</PluginID>
+          <PluginID>openocd-GigaDevice</PluginID>
           <Version>latest</Version>
         </ConfigOpenOCD>
       </Debug>
